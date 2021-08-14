@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.harsha.hotvpnpro"> /*Made By Harsha*/
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="com.android.vending.BILLING" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <application
+        android:name="com.harsha.hotvpnpro.MainApp"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity
+            android:name="com.harsha.hotvpnpro.MainActivity2"
+            android:label="@string/title_activity_main2"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="@string/admob_app_ID" />
+
+        <activity android:name="com.harsha.hotvpnpro.activities.SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.harsha.hotvpnpro.activities.MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.harsha.hotvpnpro.activities.GetPremiumActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.harsha.hotvpnpro.activities.ServerActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.harsha.hotvpnpro.activities.MenuActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.harsha.hotvpnpro.activities.Faq"
+            android:screenOrientation="portrait" />
+    </application>
+
+</manifest>

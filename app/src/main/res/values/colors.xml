@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#FF5200</color>
+    <color name="primary_dark">#FF5200</color>
+    <color name="colorAccent">#FF5200</color>
+    <color name="gray">#3d3e44</color>
+    <color name="white">#ffffff</color>
+
+    <array name="array_dot_active">
+        <item>@color/dot_selected</item>
+        <item>@color/dot_selected</item>
+        <item>@color/dot_selected</item>
+        <item>@color/dot_selected</item>
+        <item>@color/dot_selected</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/dot_not_selected</item>
+        <item>@color/dot_not_selected</item>
+        <item>@color/dot_not_selected</item>
+        <item>@color/dot_not_selected</item>
+        <item>@color/dot_not_selected</item>
+    </array>
+
+    <color name="dot_dark_screen1">#D1395C</color>
+    <color name="dot_dark_screen2">#14a895</color>
+    <color name="dot_dark_screen3">#2278d4</color>
+    <color name="dot_dark_screen4">#a854d4</color>
+    <color name="dot_dark_screen5">#D1395C</color>
+
+    <!-- dots active colors -->
+    <color name="dot_light_screen1">#f98da5</color>
+    <color name="dot_light_screen2">#8cf9eb</color>
+    <color name="dot_light_screen3">#93C6FD</color>
+    <color name="dot_light_screen4">#e4b5fc</color>
+    <color name="dot_light_screen5">#f98da5</color>
+    <color name="dot_not_selected">#FF5200</color>
+    <color name="dot_selected">#ffffff</color>
+
+    <color name="light_gray">#40F3F1F1</color>
+    <color name="red">#FF0000</color>
+    <color name="on">#01ff5a</color>
+    <color name="off">#ff3231</color>
+    <color name="black">#000000</color>
+</resources>
