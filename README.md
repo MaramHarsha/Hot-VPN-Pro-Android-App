@@ -1,4 +1,5 @@
 # Hot-VPN-Pro-Android-App
+## (Aura) Anchorfree service is providing free vpn server you can get servers from there.
 ## Note: I am using 3rd party VPN Server Company for this application. Aura where you can get free vpn servers. [Click here](https://developer.anchorfree.com/) and create an account there. For More info check the documentation.
 Hot VPN Pro – 100% free VPN! The best unlimited free VPN App for android.
 Hot VPN Pro – Free VPN proxy, Quick and fast connetion to unblock sites, WiFi hotspot secure and protect privacy. Fastest – Connect successfully with high VPN speed. Easiest – One tap to connect to VPN proxy server. Most Stable – Have lots of free cloud proxy server to provide better VPN service.
