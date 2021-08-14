@@ -1,4 +1,4 @@
-# Hot-VPN-Pro-Android-App
+# Hot-VPN-Pro-Android-App (It is done with the help of my buddys and my brother in 3 months)
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/maramsaiharsha)
 
