@@ -5,7 +5,7 @@
 ### I build this because i want to use my own apps in further. I am trying my level best to make some more apps which are usefull to you also.
 
 ## (Aura) Anchorfree service is providing free vpn server you can get servers from there.
-## Note: Images copyrights are given to their respective owners. And I am using 3rd party VPN Server Company for this application. Aura where you can get free vpn servers. [Click here](https://developer.anchorfree.com/) and create an account there. For More info check the documentation.[Click Here](https://hotvpnpro.netlify.app/)
+## Note: Image copyrights are given to their respective owners. And I am using 3rd party VPN Server Company for this application. Aura where you can get free vpn servers. [Click here](https://developer.anchorfree.com/) and create an account there. For More info check the documentation.[Click Here](https://hotvpnpro.netlify.app/)
 Hot VPN Pro – 100% free VPN! The best unlimited free VPN App for android.
 Hot VPN Pro – Free VPN proxy, Quick and fast connetion to unblock sites, WiFi hotspot secure and protect privacy. Fastest – Connect successfully with high VPN speed. Easiest – One tap to connect to VPN proxy server. Most Stable – Have lots of free cloud proxy server to provide better VPN service.
 ![WhatsApp Image 2021-08-15 at 12 34 19 AM (2)](https://user-images.githubusercontent.com/73836896/129458360-07fa4637-c643-4533-87fa-62bead47268c.jpeg)
