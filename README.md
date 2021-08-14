@@ -1,4 +1,7 @@
 # Hot-VPN-Pro-Android-App
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/maramsaiharsha)
+
 ## (Aura) Anchorfree service is providing free vpn server you can get servers from there.
 ## Note: Images copyrights are given to their respective owners. And I am using 3rd party VPN Server Company for this application. Aura where you can get free vpn servers. [Click here](https://developer.anchorfree.com/) and create an account there. For More info check the documentation.
 Hot VPN Pro – 100% free VPN! The best unlimited free VPN App for android.
